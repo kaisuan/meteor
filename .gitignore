@@ -13,3 +13,5 @@ Meteor.wixpdb
 *.sublime-project
 *.sublime-workspace
 TAGS
+*.log
+*.out
